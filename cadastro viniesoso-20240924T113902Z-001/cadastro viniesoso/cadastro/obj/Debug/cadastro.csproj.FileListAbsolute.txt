@@ -1,0 +1,10 @@
+C:\Users\Alunos\Downloads\cadastro viniesoso\cadastro\bin\Debug\cadastro.exe.config
+C:\Users\Alunos\Downloads\cadastro viniesoso\cadastro\bin\Debug\cadastro.exe
+C:\Users\Alunos\Downloads\cadastro viniesoso\cadastro\bin\Debug\cadastro.pdb
+C:\Users\Alunos\Downloads\cadastro viniesoso\cadastro\obj\Debug\cadastro.csproj.AssemblyReference.cache
+C:\Users\Alunos\Downloads\cadastro viniesoso\cadastro\obj\Debug\cadastro.Form1.resources
+C:\Users\Alunos\Downloads\cadastro viniesoso\cadastro\obj\Debug\cadastro.Properties.Resources.resources
+C:\Users\Alunos\Downloads\cadastro viniesoso\cadastro\obj\Debug\cadastro.csproj.GenerateResource.cache
+C:\Users\Alunos\Downloads\cadastro viniesoso\cadastro\obj\Debug\cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Downloads\cadastro viniesoso\cadastro\obj\Debug\cadastro.exe
+C:\Users\Alunos\Downloads\cadastro viniesoso\cadastro\obj\Debug\cadastro.pdb
